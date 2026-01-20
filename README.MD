@@ -20,6 +20,12 @@ The system is built using:
 
 ---
 
+## Screenshots
+
+
+
+---
+
 ## 🛠️ Technologies Used
 
 - Python
