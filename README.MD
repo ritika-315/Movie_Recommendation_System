@@ -21,7 +21,7 @@ The system is built using:
 ---
 
 ## Screenshots
-C:\Users\ritik\OneDrive\Pictures\Screenshots\Screenshot 2026-01-21 040600.png
+![Screenshot](screenshot_Screenshot 2026-01-21 041144.png)
 
 ---
 
