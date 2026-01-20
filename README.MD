@@ -21,7 +21,7 @@ The system is built using:
 ---
 
 ## Screenshots
-![Screenshot](screenshot_Screenshot 2026-01-21 041144.png)
+![Screenshot](Screenshot%202026-01-21%20041144.png)
 
 ---
 
@@ -64,7 +64,7 @@ These features are combined and cleaned to create a `tags` column, which is used
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/your-username/Movie_Recommendation_System.git
+git clone https://github.com/ritika-315/Movie_Recommendation_System.git
 cd Movie_Recommendation_System
 ```
 
