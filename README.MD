@@ -88,7 +88,7 @@ Backend will run at:
 - **https://movie-recommendation-system-05y0.onrender.com** or **http://127.0.0.1:8000**
 
 API documentation:
-- **https://movierecommendationsystem-zn8jemcmnpbyfsqwecqohl.streamlit.app** or **http://127.0.0.1:8000/docs**
+- **http://127.0.0.1:8000/docs**
 
 ### Step 5: Start Streamlit frontend
 ```bash
@@ -96,7 +96,7 @@ streamlit run app.py
 ```
 
 Frontend will open at:
-- **http://localhost:8501**
+- **https://movierecommendationsystem-zn8jemcmnpbyfsqwecqohl.streamlit.app** or **http://localhost:8501**
 
 ---
 
