@@ -21,7 +21,7 @@ The system is built using:
 ---
 
 ## Screenshots
-![Screenshot](Screenshot 2026-01-21 041144.png)
+![Screenshot](Screenshot_2026-01-21_041144.png)
 
 ---
 
